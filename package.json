@@ -1,0 +1,23 @@
+{
+  "name": "reduser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "connect": "^3.7.0",
+    "csv-parse": "^5.0.4",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.2",
+    "fs": "^0.0.1-security",
+    "method-override": "^3.0.0",
+    "node-csv": "^0.1.2",
+    "redis": "^4.0.4"
+  }
+}
